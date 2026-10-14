@@ -2,7 +2,7 @@
   "login": "l4mbh",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.768105955120688,
+  "overallPercentile": 0.8334185265178425,
   "layout": "bento",
   "class": {
     "name": "Blade Master",
@@ -43,12 +43,20 @@
     },
     {
       "code": "CHA",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "C",
+      "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "E",
+      "to": "C",
+      "at": "2026-10-14T20:42:12.377Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -123,7 +131,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "guild-hopper",
@@ -179,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-14",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-13",
         "cleared": 0,
         "total": 3
@@ -226,5 +239,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-13T21:49:59.264Z"
+  "syncedAt": "2026-10-14T20:42:12.377Z"
 }
