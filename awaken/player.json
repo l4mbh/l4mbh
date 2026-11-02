@@ -2,7 +2,7 @@
   "login": "l4mbh",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.8360167542035154,
+  "overallPercentile": 0.8362765156793049,
   "layout": "bento",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 215,
+      "value": 217,
       "rank": "B",
-      "percentile": 0.8288576836466038
+      "percentile": 0.8303680678789371
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 215
+      "value": 217
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 27
+      "value": 29
     },
     {
       "id": "early-bird",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 30
+      "value": 31
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 11
+      "value": 12
     },
     {
       "id": "boss-slayer",
@@ -176,7 +176,7 @@
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "collector",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-02",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-01",
         "cleared": 0,
@@ -320,14 +325,14 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 11,
+    "questsDone": 12,
     "bosses": [],
-    "escapes": 3,
+    "escapes": 4,
     "kinds": [
       "contribute",
       "commit",
       "average"
     ]
   },
-  "syncedAt": "2026-11-01T21:10:10.005Z"
+  "syncedAt": "2026-11-02T23:52:07.069Z"
 }
